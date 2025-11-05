@@ -5,7 +5,7 @@ function Contact() {
             <>
             <h1>Contact Page</h1>
             <p>Jordan Chen <br /> 
-            Email: <a href = "mailto:jchen292@uic.edu">jchen292@uic.edu</a>
+            Email: <a href = "mailto:jordanchen13@yahoo.com">jordanchen13@yahoo.com</a>
             </p> 
             </>
     )
